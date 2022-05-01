@@ -14,7 +14,7 @@ Architectury: https://www.curseforge.com/minecraft/mc-mods/architectury-forge
 
 Artifacts: https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric
 
-~~Cosmetic Armor: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric ~~
+Cosmetic Armor: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric
 
 CraftTweaker: https://www.curseforge.com/minecraft/mc-mods/crafttweaker
 
@@ -30,7 +30,7 @@ Simple Backpack: https://www.curseforge.com/minecraft/mc-mods/simple-backpack-fa
 
 The Graveyard: https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric
 
-~~Transparent Cosmetic: https://www.curseforge.com/minecraft/mc-mods/transparent-cosmetics ~~
+Transparent Cosmetic: https://www.curseforge.com/minecraft/mc-mods/transparent-cosmetics
 
 BCLib: https://www.curseforge.com/minecraft/mc-mods/bclib
 
@@ -93,3 +93,7 @@ Voidz: https://www.curseforge.com/minecraft/mc-mods/voidz
 Harvest Scythes: https://www.curseforge.com/minecraft/mc-mods/harvest-scythes/
 
 Waystones: https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
+
+Inventorio: https://www.curseforge.com/minecraft/mc-mods/inventorio
+
+BetterEnd: https://www.curseforge.com/minecraft/mc-mods/betterend
